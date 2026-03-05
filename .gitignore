@@ -1,4 +1,17 @@
+# macOS
+.DS_Store
+
+# Java compiled files
 *.class
-*.ds_store
-*.idea
+
+# IntelliJ
+.idea/
+*.iml
+
+# Build folders
 target/
+out/
+build/
+
+# Logs
+*.log
