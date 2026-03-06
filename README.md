@@ -8,11 +8,11 @@ This Java project simulates agents executing operations against adversaries with
 
 Compile the code:
 
-javac edu/yu/cs/intro/secretOps/*.java
+`javac edu/yu/cs/intro/secretOps/*.java`
 
 Run the demo:
 
-java edu.yu.cs.intro.secretOps.OperationExecutorDemo
+`java edu.yu.cs.intro.secretOps.OperationExecutorDemo`
 
 ## Author
 
